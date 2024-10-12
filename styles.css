@@ -103,6 +103,17 @@ body {
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
   }
+
+  .opening-hours {
+    list-style-type: none;
+    padding: 0;
+    font-size: 1.5em;
+  }
+
+  .opening-hours li {
+    margin-bottom: 10px; 
+  }
+
   
   footer {
     background-color: #be8956;
